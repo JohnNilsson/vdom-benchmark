@@ -1,5 +1,5 @@
 benchmarkConfig({
-  "tests": "http://vdom-benchmark.github.io/vdom-benchmark/tests.js",
+  "tests": "https://vdom-benchmark.github.io/vdom-benchmark/tests.js",
   "contestants": [
     {
       "name": "uix",
@@ -18,13 +18,13 @@ benchmarkConfig({
     },
     {
       "name": "React",
-      "url": "http://facebook.github.io/react/",
+      "url": "https://facebook.github.io/react/",
       "benchmarkUrl": "https://vdom-benchmark.github.io/vdom-benchmark-react/"
     },
     {
       "name": "React-lite",
       "url": "https://github.com/Lucifier129/react-lite",
-      "benchmarkUrl": "http://lucifier129.github.io/vdom-benchmark-react-lite/"
+      "benchmarkUrl": "https://lucifier129.github.io/vdom-benchmark-react-lite/"
     },
     {
       "name": "virtual-dom",
@@ -33,12 +33,12 @@ benchmarkConfig({
     },
     {
       "name": "mithril",
-      "url": "http://lhorie.github.io/mithril/",
+      "url": "https://lhorie.github.io/mithril/",
       "benchmarkUrl": "https://vdom-benchmark.github.io/vdom-benchmark-mithril/"
     },
     {
       "name": "maquette",
-      "url": "http://github.com/AFASSoftware/maquette/",
+      "url": "https://github.com/AFASSoftware/maquette/",
       "benchmarkUrl": "https://vdom-benchmark.github.io/vdom-benchmark-maquette/"
     },
     {
@@ -74,7 +74,7 @@ benchmarkConfig({
     {
       "name": "morphdom",
       "url": "https://github.com/patrick-steele-idem/morphdom",
-      "benchmarkUrl": "http://vdom-benchmark.github.io/vdom-benchmark-morphdom/"
+      "benchmarkUrl": "https://vdom-benchmark.github.io/vdom-benchmark-morphdom/"
     },
     {
       "name": "Vidom",
